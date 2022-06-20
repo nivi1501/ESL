@@ -69,7 +69,14 @@ This webpage presents a curated list of papers in the field of side channel atta
 66. Hettwer, B., Gehrer, S., & Güneysu, T. (2020). Applications of machine learning techniques in side-channel attacks: a survey. Journal of Cryptographic Engineering, 10(2), 135-162. [Link](https://link.springer.com/article/10.1007/s13389-019-00212-8)
 67. Fei, Y., Ding, A. A., Lao, J., & Zhang, L. (2014). A statistics-based fundamental model for side-channel attack analysis. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2014/152)
 68. Gierlichs, B., Batina, L., & Tuyls, P. (2007). Mutual information analysis--a universal differential side-channel attack. Cryptology ePrint Archive.[Link](https://eprint.iacr.org/2007/198)
-69. 
+69. Guo, Q., Grosso, V., Standaert, F. X., & Bronchain, O. (2020). Modeling soft analytical side-channel attacks from a coding theory viewpoint. IACR Transactions on Cryptographic Hardware and Embedded Systems, 209-238. [Link](https://tches.iacr.org/index.php/TCHES/article/view/8682)
+70. Cheng, W., Liu, Y., Guilley, S., & Rioul, O. (2021). Attacking masked cryptographic implementations: Information-theoretic bounds. arXiv preprint arXiv:2105.07436. [Link](https://arxiv.org/abs/2105.07436)
+71. Yang, W., & Zhang, H. (2019, December). Side-channel leakage amount estimation based on communication theory. In 2019 IEEE Global Communications Conference (GLOBECOM) (pp. 1-6). IEEE.[Link](https://arxiv.org/abs/2105.07436)
+72. Tănăsescu, A., Choudary, M. O., Rioul, O., & Popescu, P. G. (2021). Asymptotically Optimal Massey-Like Inequality on Guessing Entropy With Application to Side-Channel Attack Evaluations. arXiv preprint arXiv:2103.15620. [Link](https://arxiv.org/abs/2103.15620)
+73. Cheng, W., Rioul, O., & Guilley, S. (2019, April). Guessing a secret cryptographic key from side-channel leakages. In 2019 IEEE European School of Information Theory (ESIT'19).[Link](https://hal.telecom-paris.fr/hal-02300782/document)
+74. Zhang, D., Zhou, C., Li, S., Yu, D., & He, K. (2020). Evaluation of Information Leakage of Cryptographic Chip Based on Variance. IEEE Letters on Electromagnetic Compatibility Practice and Applications, 2(4), 174-177.[Link](https://ieeexplore.ieee.org/abstract/document/9294036)
+75. Ito, A., Ueno, R., & Homma, N. (2022). On the Success Rate of Side-Channel Attacks on Masked Implementations: Information-Theoretical Bounds and Their Practical Usage. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2022/576.pdf)
+76. 
 
 ## Useful Code Repositories
 1. [Flush+Flush](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
