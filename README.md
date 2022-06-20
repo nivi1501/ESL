@@ -76,6 +76,7 @@ This webpage presents a curated list of papers in the field of side channel atta
 67. Akram, A., Mushtaq, M., Bhatti, M. K., Lapotre, V., & Gogniat, G. (2020). Meet the Sherlock Holmes’ of side channel leakage: A survey of cache SCA detection techniques. IEEE Access, 8, 70836-70860. [Link](https://ieeexplore.ieee.org/abstract/document/9035459)49. 
 68. Mushtaq, M., Akram, A., Bhatti, M. K., Ali, U., Lapotre, V., & Gogniat, G. (2019, June). Sherlock Holmes of Cache Side-Channel Attacks in Intel's x86 Architecture. In 2019 IEEE Conference on Communications and Network Security (CNS) (pp. 1-9). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8802805)
 69. Hettwer, B., Gehrer, S., & Güneysu, T. (2020). Applications of machine learning techniques in side-channel attacks: a survey. Journal of Cryptographic Engineering, 10(2), 135-162. [Link](https://link.springer.com/article/10.1007/s13389-019-00212-8)
+70. Su, C., & Zeng, Q. (2021). Survey of CPU cache-based side-channel attacks: systematic analysis, security models, and countermeasures. Security and Communication Networks, 2021. [Link](https://www.hindawi.com/journals/scn/2021/5559552/)
 
 
 ### Theoritical Analysis 
