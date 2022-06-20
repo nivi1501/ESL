@@ -62,6 +62,8 @@ This webpage presents a curated list of papers in the field of side channel atta
 55. Dhavlle, A., Mehta, R., Rafatirad, S., Homayoun, H., & Dinakarrao, S. M. P. (2020, March). Entropy-shield: Side-channel entropy maximization for timing-based side-channel attacks. In 2020 21st International Symposium on Quality Electronic Design (ISQED) (pp. 161-166). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/9137008)
 56. Crane, S., Homescu, A., Brunthaler, S., Larsen, P., & Franz, M. (2015, February). Thwarting cache side-channel attacks through dynamic software diversity. In NDSS (pp. 8-11).[Link](https://www.ics.uci.edu/~ahomescu/ndss15sidechannels.pdf)
 57. Chabanne, H., Danger, J. L., Guiga, L., & Kühne, U. (2021). Side channel attacks for architecture extraction of neural networks. CAAI Transactions on Intelligence Technology, 6(1), 3-16.[Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12026)
+58. Mi, Z., Chen, H., Zhang, Y., Peng, S., Wang, X., & Reiter, M. K. (2018). Cpu elasticity to mitigate cross-vm runtime monitoring. IEEE Transactions on Dependable and Secure Computing, 17(5), 1094-1108.[Link](https://ieeexplore.ieee.org/abstract/document/8383990)
+59. Wang, H., Sayadi, H., Sasan, A., Rafatirad, S., & Homayoun, H. (2020, November). Hybrid-shield: Accurate and efficient cross-layer countermeasure for run-time detection and mitigation of cache-based side-channel attacks. In Proceedings of the 39th International Conference on Computer-Aided Design (pp. 1-9). [Link](https://dl.acm.org/doi/abs/10.1145/3400302.3418783)
 
 
 
