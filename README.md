@@ -78,7 +78,7 @@ This webpage presents a curated list of papers in the field of side channel atta
 69. Hettwer, B., Gehrer, S., & Güneysu, T. (2020). Applications of machine learning techniques in side-channel attacks: a survey. Journal of Cryptographic Engineering, 10(2), 135-162. [Link](https://link.springer.com/article/10.1007/s13389-019-00212-8)
 
 
-### Theoritical Analysis
+### Theoritical Analysis 
 70. de Chérisey, E., Guilley, S., Rioul, O., & Piantanida, P. (2019). Best information is most successful. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2019/491)
 71. De Cherisey, E., Guilley, S., Rioul, O., & Piantanida, P. (2019, July). An information-theoretic model for side-channel attacks in embedded hardware. In 2019 IEEE International Symposium on Information Theory (ISIT) (pp. 310-315). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8849763)
 72. Cheng, W., Liu, Y., Guilley, S., & Rioul, O. (2021). Attacking masked cryptographic implementations: Information-theoretic bounds. arXiv preprint arXiv:2105.07436. [Link](https://arxiv.org/abs/2105.07436)
@@ -100,6 +100,10 @@ This webpage presents a curated list of papers in the field of side channel atta
 88. Yarom, Y. (2016). Mastik: A micro-architectural side-channel toolkit. [Link](https://cs.adelaide.edu.au/~yval/Mastik/Mastik.pdf)
 89. Alam, M., & Mukhopadhyay, D. (2019, June). How secure are deep learning algorithms from side-channel based reverse engineering?. In Proceedings of the 56th Annual Design Automation Conference 2019 (pp. 1-2). [Link](https://dl.acm.org/doi/abs/10.1145/3316781.3322465)
 90. Hong, S., Davinroy, M., Kaya, Y., Locke, S. N., Rackow, I., Kulda, K., ... & Dumitraş, T. (2018). Security analysis of deep neural networks operating in the presence of cache side-channel attacks. arXiv preprint arXiv:1810.03487. [Link](https://arxiv.org/abs/1810.03487)
+
+
+
+
 
 ## Useful Code Repositories
 2. [Flush+Reload](https://github.com/IAIK/cache_template_attacks) 
