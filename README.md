@@ -42,12 +42,23 @@ This webpage presents a curated list of papers in the field of side channel atta
 39. Mushtaq, M., Akram, A., Bhatti, M. K., Chaudhry, M., Lapotre, V., & Gogniat, G. (2018, June). Nights-watch: A cache-based side-channel intrusion detector using hardware performance counters. In Proceedings of the 7th International Workshop on Hardware and Architectural Support for Security and Privacy (pp. 1-8).[Link](https://dl.acm.org/doi/abs/10.1145/3214292.3214293)
 40. Mushtaq, M., Akram, A., Bhatti, M. K., Rais, R. N. B., Lapotre, V., & Gogniat, G. (2018, October). Run-time detection of prime+ probe side-channel attack on AES encryption algorithm. In 2018 Global Information Infrastructure and Networking Symposium (GIIS) (pp. 1-5). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8635767)
 41. Mushtaq, M., Bricq, J., Bhatti, M. K., Akram, A., Lapotre, V., Gogniat, G., & Benoit, P. (2020). WHISPER: A tool for run-time detection of side-channel attacks. IEEE Access, 8, 83871-83900. [Link](https://ieeexplore.ieee.org/abstract/document/9069285)
-42. Mushtaq, M., Akram, A., Bhatti, M. K., Chaudhry, M., Yousaf, M., Farooq, U., ... & Gogniat, G. (2018, December). Machine learning for security: The case of side-channel attack detection at run-time. In 2018 25th IEEE International Conference on Electronics, Circuits and Systems (ICECS) (pp. 485-488). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8617994)
+42. Mushtaq, M., Akram, A., Bhatti, M. K., Chaudhry, M., Yousaf, M., Farooq, U., & Gogniat, G. (2018, December). Machine learning for security: The case of side-channel attack detection at run-time. In 2018 25th IEEE International Conference on Electronics, Circuits and Systems (ICECS) (pp. 485-488). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8617994)
 43. Akram, A., Mushtaq, M., Bhatti, M. K., Lapotre, V., & Gogniat, G. (2020). Meet the Sherlock Holmes’ of side channel leakage: A survey of cache SCA detection techniques. IEEE Access, 8, 70836-70860. [Link](https://ieeexplore.ieee.org/abstract/document/9035459)
 44. Mukhtar, M. A., Mushtaq, M., Bhatti, M. K., Lapotre, V., & Gogniat, G. (2020). Flush+ prefetch: A countermeasure against access-driven cache-based side-channel attacks. Journal of Systems Architecture, 104, 101698. [Link](https://www.sciencedirect.com/science/article/pii/S1383762119305053)
 45. Mushtaq, M., Akram, A., Bhatti, M. K., Lapotre, V., & Gogniat, G. (2018, June). Cache-Based Side-Channel Intrusion Detection using Hardware Performance Counters. In CryptArchi 2018-16th International Workshops on Cryptographic architectures embedded in logic devices. [Link](https://hal.archives-ouvertes.fr/cel-01824512/)
 46. Mushtaq, M., Akram, A., Bhatti, M. K., Ali, U., Lapotre, V., & Gogniat, G. (2019, June). Sherlock Holmes of Cache Side-Channel Attacks in Intel's x86 Architecture. In 2019 IEEE Conference on Communications and Network Security (CNS) (pp. 1-9). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8802805)
 47. De Cherisey, E., Guilley, S., Rioul, O., & Piantanida, P. (2019, July). An information-theoretic model for side-channel attacks in embedded hardware. In 2019 IEEE International Symposium on Information Theory (ISIT) (pp. 310-315). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8849763)
-48. 
+48. Yarom, Y. (2016). Mastik: A micro-architectural side-channel toolkit. [Link](https://cs.adelaide.edu.au/~yval/Mastik/Mastik.pdf)
+49. Kong, J., Aciiçmez, O., Seifert, J. P., & Zhou, H. (2009, February). Hardware-software integrated approaches to defend against software cache-based side channel attacks. In 2009 IEEE 15th international symposium on high performance computer architecture (pp. 393-404). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/4798277)
+50. Kim, T., Peinado, M., & Mainar-Ruiz, G. (2012). {STEALTHMEM}:{System-Level} Protection Against {Cache-Based} Side Channel Attacks in the Cloud. In 21st USENIX Security Symposium (USENIX Security 12) (pp. 189-204). [Link](https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/kim)
+51. Kong, J., Aciicmez, O., Seifert, J. P., & Zhou, H. (2008, October). Deconstructing new cache designs for thwarting software cache-based side channel attacks. In Proceedings of the 2nd ACM workshop on Computer security architectures (pp. 25-34). [Link](https://dl.acm.org/doi/abs/10.1145/1456508.1456514)
+52. 
 
 ## Code
+[Flush+Flush](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
+[Flush+Reload](https://github.com/IAIK/cache_template_attacks) 
+[CSCA](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
+[Prime+Probe](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
+[Spectre](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks) 
+https://gist.github.com/ErikAugust/724d4a969fb2c6ae1bbd7b2a9e3d4bb6 
+[Meltdown](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks) 
