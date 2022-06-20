@@ -52,13 +52,32 @@ This webpage presents a curated list of papers in the field of side channel atta
 49. Kong, J., Aciiçmez, O., Seifert, J. P., & Zhou, H. (2009, February). Hardware-software integrated approaches to defend against software cache-based side channel attacks. In 2009 IEEE 15th international symposium on high performance computer architecture (pp. 393-404). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/4798277)
 50. Kim, T., Peinado, M., & Mainar-Ruiz, G. (2012). {STEALTHMEM}:{System-Level} Protection Against {Cache-Based} Side Channel Attacks in the Cloud. In 21st USENIX Security Symposium (USENIX Security 12) (pp. 189-204). [Link](https://www.usenix.org/conference/usenixsecurity12/technical-sessions/presentation/kim)
 51. Kong, J., Aciicmez, O., Seifert, J. P., & Zhou, H. (2008, October). Deconstructing new cache designs for thwarting software cache-based side channel attacks. In Proceedings of the 2nd ACM workshop on Computer security architectures (pp. 25-34). [Link](https://dl.acm.org/doi/abs/10.1145/1456508.1456514)
-52. 
+52. Vasilikos, P., Nielson, H. R., Nielson, F., & Köpf, B. (2019, June). Timing leaks and coarse-grained clocks. In 2019 IEEE 32nd Computer Security Foundations Symposium (CSF) (pp. 32-3215). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8823781)
+53. Wang, Z., Peng, S., Guo, X., & Jiang, W. (2018, November). Zero in and TimeFuzz: detection and mitigation of cache side-channel attacks. In International Conference on Security for Information Technology and Communications (pp. 410-424). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-12942-2_31)
+54. Lv, Z., Zhao, Y., & Zhang, C. (2020, June). DegradeTimer: Mitigating Dedicated Thread Timer based Microarchitectural Timing Channels. In ICC 2020-2020 IEEE International Conference on Communications (ICC) (pp. 1-7). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/9149177)
+55. Cao, Y., Chen, Z., Li, S., & Wu, S. (2017, October). Deterministic browser. In Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security (pp. 163-178). [Link](https://dl.acm.org/doi/abs/10.1145/3133956.3133996)
+56. Hu, W. M. (1992). Reducing timing channels with fuzzy time. Journal of computer security, 1(3-4), 233-254. [Link](https://content.iospress.com/articles/journal-of-computer-security/jcs1-3-4-04)
+57. Kohlbrenner, D., & Shacham, H. (2016). Trusted browsers for uncertain times. In 25th USENIX Security Symposium (USENIX Security 16) (pp. 463-480). [Link](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/kohlbrenner)
+58. Sabbagh, M., Fei, Y., Wahl, T., & Ding, A. A. (2018, November). Scadet: A side-channel attack detection tool for tracking prime-probe. In 2018 IEEE/ACM International Conference on Computer-Aided Design (ICCAD) (pp. 1-8). ACM. [Link](https://dl.acm.org/doi/abs/10.1145/3240765.3240844)
+59. Wang, H., Sayadi, H., Sasan, A., Rafatirad, S., & Homayoun, H. (2020, December). Hybridg: Hybrid dynamic time warping and gaussian distribution model for detecting emerging zero-day microarchitectural side-channel attacks. In 2020 19th IEEE International Conference on Machine Learning and Applications (ICMLA) (pp. 604-611). IEEE.[Link](https://ieeexplore.ieee.org/abstract/document/9356386)
+60. Gulmezoglu, B., Moghimi, A., Eisenbarth, T., & Sunar, B. (2019). Fortuneteller: Predicting microarchitectural attacks via unsupervised deep learning. arXiv preprint arXiv:1907.03651. [Link](https://arxiv.org/abs/1907.03651)
+61. Yan, M., Fletcher, C. W., & Torrellas, J. (2020). Cache telepathy: Leveraging shared resource attacks to learn {DNN} architectures. In 29th USENIX Security Symposium (USENIX Security 20) (pp. 2003-2020). [Link](https://www.usenix.org/conference/usenixsecurity20/presentation/yan)
+62. Liu, Y., & Srivastava, A. (2020, November). Ganred: Gan-based reverse engineering of dnns via cache side-channel. In Proceedings of the 2020 ACM SIGSAC Conference on Cloud Computing Security Workshop (pp. 41-52).[Link](https://dl.acm.org/doi/abs/10.1145/3411495.3421356)
+63. Hua, W., Zhang, Z., & Suh, G. E. (2022). Reverse Engineering CNN Models using Side-Channel Attacks. IEEE Design & Test. [Link](https://ieeexplore.ieee.org/abstract/document/9709841)
+64. Alam, M., & Mukhopadhyay, D. (2019, June). How secure are deep learning algorithms from side-channel based reverse engineering?. In Proceedings of the 56th Annual Design Automation Conference 2019 (pp. 1-2). [Link](https://dl.acm.org/doi/abs/10.1145/3316781.3322465)
+65. Saileshwar, G., & Qureshi, M. (2021). {MIRAGE}: Mitigating {Conflict-Based} Cache Attacks with a Practical {Fully-Associative} Design. In 30th USENIX Security Symposium (USENIX Security 21) (pp. 1379-1396). [Link](https://www.usenix.org/conference/usenixsecurity21/presentation/saileshwar)
+66. Hettwer, B., Gehrer, S., & Güneysu, T. (2020). Applications of machine learning techniques in side-channel attacks: a survey. Journal of Cryptographic Engineering, 10(2), 135-162. [Link](https://link.springer.com/article/10.1007/s13389-019-00212-8)
+67. Fei, Y., Ding, A. A., Lao, J., & Zhang, L. (2014). A statistics-based fundamental model for side-channel attack analysis. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2014/152)
+68. Gierlichs, B., Batina, L., & Tuyls, P. (2007). Mutual information analysis--a universal differential side-channel attack. Cryptology ePrint Archive.[Link](https://eprint.iacr.org/2007/198)
+69. 
 
-## Code
-[Flush+Flush](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
-[Flush+Reload](https://github.com/IAIK/cache_template_attacks) 
-[CSCA](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
-[Prime+Probe](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
-[Spectre](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks) 
-https://gist.github.com/ErikAugust/724d4a969fb2c6ae1bbd7b2a9e3d4bb6 
-[Meltdown](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks) 
+## Useful Code Repositories
+1. [Flush+Flush](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
+2. [Flush+Reload](https://github.com/IAIK/cache_template_attacks) 
+4. [CSCA](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
+5. [Prime+Probe](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
+6. [Spectre](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks) 
+7. https://gist.github.com/ErikAugust/724d4a969fb2c6ae1bbd7b2a9e3d4bb6 
+8. [Meltdown](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks) 
+9. [Dabangg](https://github.com/DABANGG-Attack/Source-Code)
+10. [Reload+Refresh](https://github.com/greenlsi/reload_refresh)
