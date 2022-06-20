@@ -2,8 +2,7 @@
 This webpage presents a curated list of papers in the field of side channel attacks, countermeasure and counterattacks. 
 ## References
 ### Attacks
-1. Jayasinghe, D., Fernando, J., Herath, R., & Ragel, R. (2010, December). Remote cache timing attack on advanced encryption standard and countermeasures. In 2010 Fifth International Conference on Information and Automation for Sustainability (pp. 177-182). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/5715656)
-2. Gruss, D., Spreitzer, R., & Mangard, S. (2015). Cache Template Attacks: Automating Attacks on Inclusive {Last-Level} Caches. In 24th USENIX Security Symposium (USENIX Security 15) (pp. 897-912). [Link](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/gruss)
+1. Gruss, D., Spreitzer, R., & Mangard, S. (2015). Cache Template Attacks: Automating Attacks on Inclusive {Last-Level} Caches. In 24th USENIX Security Symposium (USENIX Security 15) (pp. 897-912). [Link](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/gruss)
 3. Osvik, D. A., Shamir, A., & Tromer, E. (2006, February). Cache attacks and countermeasures: the case of AES. In Cryptographers’ track at the RSA conference (pp. 1-20). Springer, Berlin, Heidelberg. [Link](https://link.springer.com/chapter/10.1007/11605805_1)
 4. Neve, M., & Seifert, J. P. (2006, August). Advances on access-driven cache attacks on AES. In International Workshop on Selected Areas in Cryptography (pp. 147-162). Springer, Berlin, Heidelberg. [Link](https://link.springer.com/chapter/10.1007/978-3-540-74462-7_11)
 5. Gullasch, D., Bangerter, E., & Krenn, S. (2011, May). Cache games--bringing access-based cache attacks on AES to practice. In 2011 IEEE Symposium on Security and Privacy (pp. 490-505). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/5958048)
@@ -13,9 +12,10 @@ This webpage presents a curated list of papers in the field of side channel atta
 9. Yarom, Y., & Falkner, K. (2014). {FLUSH+ RELOAD}: A High Resolution, Low Noise, L3 Cache {Side-Channel} Attack. In 23rd USENIX security symposium (USENIX security 14) (pp. 719-732). [Link](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/yarom)
 10. Saxena, A., & Panda, B. (2020). DABANGG: time for fearless flush based cache attacks. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2020/637)
 11. Mukhtar, M. A., Mushtaq, M., Bhatti, M. K., Lapotre, V., & Gogniat, G. (2020). Flush+ prefetch: A countermeasure against access-driven cache-based side-channel attacks. Journal of Systems Architecture, 104, 101698. [Link](https://www.sciencedirect.com/science/article/pii/S1383762119305053)
-12. Yan, M., Fletcher, C. W., & Torrellas, J. (2020). Cache telepathy: Leveraging shared resource attacks to learn {DNN} architectures. In 29th USENIX Security Symposium (USENIX Security 20) (pp. 2003-2020). [Link](https://www.usenix.org/conference/usenixsecurity20/presentation/yan)
-13. Liu, Y., & Srivastava, A. (2020, November). Ganred: Gan-based reverse engineering of dnns via cache side-channel. In Proceedings of the 2020 ACM SIGSAC Conference on Cloud Computing Security Workshop (pp. 41-52).[Link](https://dl.acm.org/doi/abs/10.1145/3411495.3421356)
-14. Hua, W., Zhang, Z., & Suh, G. E. (2022). Reverse Engineering CNN Models using Side-Channel Attacks. IEEE Design & Test. [Link](https://ieeexplore.ieee.org/abstract/document/9709841)
+12. Jayasinghe, D., Fernando, J., Herath, R., & Ragel, R. (2010, December). Remote cache timing attack on advanced encryption standard and countermeasures. In 2010 Fifth International Conference on Information and Automation for Sustainability (pp. 177-182). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/5715656)
+13. Yan, M., Fletcher, C. W., & Torrellas, J. (2020). Cache telepathy: Leveraging shared resource attacks to learn {DNN} architectures. In 29th USENIX Security Symposium (USENIX Security 20) (pp. 2003-2020). [Link](https://www.usenix.org/conference/usenixsecurity20/presentation/yan)
+14. Liu, Y., & Srivastava, A. (2020, November). Ganred: Gan-based reverse engineering of dnns via cache side-channel. In Proceedings of the 2020 ACM SIGSAC Conference on Cloud Computing Security Workshop (pp. 41-52).[Link](https://dl.acm.org/doi/abs/10.1145/3411495.3421356)
+15. Hua, W., Zhang, Z., & Suh, G. E. (2022). Reverse Engineering CNN Models using Side-Channel Attacks. IEEE Design & Test. [Link](https://ieeexplore.ieee.org/abstract/document/9709841)
 
 
 ### Countermeasures
@@ -99,12 +99,8 @@ This webpage presents a curated list of papers in the field of side channel atta
 83. Alam, M., & Mukhopadhyay, D. (2019, June). How secure are deep learning algorithms from side-channel based reverse engineering?. In Proceedings of the 56th Annual Design Automation Conference 2019 (pp. 1-2). [Link](https://dl.acm.org/doi/abs/10.1145/3316781.3322465)
 
 ## Useful Code Repositories
-1. [Flush+Flush](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
 2. [Flush+Reload](https://github.com/IAIK/cache_template_attacks) 
 4. [CSCA](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
-5. [Prime+Probe](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
-6. [Spectre](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks) 
 7. https://gist.github.com/ErikAugust/724d4a969fb2c6ae1bbd7b2a9e3d4bb6 
-8. [Meltdown](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks) 
 9. [Dabangg](https://github.com/DABANGG-Attack/Source-Code)
 10. [Reload+Refresh](https://github.com/greenlsi/reload_refresh)
