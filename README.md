@@ -1,7 +1,7 @@
-# Side Channel Attacks
+# Cache Based Side Channel Attacks
 This webpage presents a curated list of papers in the field of side channel attacks, countermeasure and counterattacks. 
 ## References
-### Attacks
+### Side Channel Attacks
 1. Gruss, D., Spreitzer, R., & Mangard, S. (2015). Cache Template Attacks: Automating Attacks on Inclusive {Last-Level} Caches. In 24th USENIX Security Symposium (USENIX Security 15) (pp. 897-912). [Link](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/gruss)
 3. Osvik, D. A., Shamir, A., & Tromer, E. (2006, February). Cache attacks and countermeasures: the case of AES. In Cryptographers’ track at the RSA conference (pp. 1-20). Springer, Berlin, Heidelberg. [Link](https://link.springer.com/chapter/10.1007/11605805_1)
 4. Neve, M., & Seifert, J. P. (2006, August). Advances on access-driven cache attacks on AES. In International Workshop on Selected Areas in Cryptography (pp. 147-162). Springer, Berlin, Heidelberg. [Link](https://link.springer.com/chapter/10.1007/978-3-540-74462-7_11)
@@ -18,7 +18,7 @@ This webpage presents a curated list of papers in the field of side channel atta
 15. Hua, W., Zhang, Z., & Suh, G. E. (2022). Reverse Engineering CNN Models using Side-Channel Attacks. IEEE Design & Test. [Link](https://ieeexplore.ieee.org/abstract/document/9709841)
 
 
-### Countermeasures
+### Countermeasures and Counterattacks
 15. Martin, R., Demme, J., & Sethumadhavan, S. (2012, June). Timewarp: Rethinking timekeeping and performance monitoring mechanisms to mitigate side-channel attacks. In 2012 39th Annual International Symposium on Computer Architecture (ISCA) (pp. 118-129). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/6237011)
 16. Page, D. (2005). Partitioned cache architecture as a side-channel defence mechanism. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2005/280)
 17. Vattikonda, B. C., Das, S., & Shacham, H. (2011, October). Eliminating fine grained timers in Xen. In Proceedings of the 3rd ACM workshop on Cloud computing security workshop (pp. 41-46). [Link](https://dl.acm.org/doi/abs/10.1145/2046660.2046671)
