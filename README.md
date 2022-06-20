@@ -31,8 +31,10 @@ This webpage presents a curated list of papers in the field of side channel atta
 28. Liu, F., Yarom, Y., Ge, Q., Heiser, G., & Lee, R. B. (2015, May). Last-level cache side-channel attacks are practical. In 2015 IEEE symposium on security and privacy (pp. 605-622). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/7163050)
 29. Sanchez, D., & Kozyrakis, C. (2010, December). The ZCache: Decoupling ways and associativity. In 2010 43rd Annual IEEE/ACM International Symposium on Microarchitecture (pp. 187-198). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/5695536)
 30. Page, D. (2005). Partitioned cache architecture as a side-channel defence mechanism. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2005/280)
-31. Ge, Q., Yarom, Y., Cock, D., & Heiser, G. (2018). A survey of microarchitectural timing attacks and countermeasures on contemporary hardware. Journal of Cryptographic Engineering, 8(1), 1-27. [Link](https://link.springer.com/article/10.1007/s13389-016-0141-6)
-32. Randolph, M., & Diehl, W. (2020). Power side-channel attack analysis: A review of 20 years of study for the layman. Cryptography, 4(2), 15. [Link](https://mdpi-res.com/d_attachment/cryptography/cryptography-04-00015/article_deploy/cryptography-04-00015-v3.pdf?version=1592905738)
-33. 
+31. Kiriansky, V., Lebedev, I., Amarasinghe, S., Devadas, S., & Emer, J. (2018, October). DAWG: A defense against cache timing attacks in speculative execution processors. In 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture (MICRO) (pp. 974-987). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8574600)
+32. Mao, B., Hu, W., Althoff, A., Matai, J., Oberg, J., Mu, D., ... & Kastner, R. (2015, November). Quantifying timing-based information flow in cryptographic hardware. In 2015 IEEE/ACM International Conference on Computer-Aided Design (ICCAD) (pp. 552-559). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/7372618)
+33. Ge, Q., Yarom, Y., Cock, D., & Heiser, G. (2018). A survey of microarchitectural timing attacks and countermeasures on contemporary hardware. Journal of Cryptographic Engineering, 8(1), 1-27. [Link](https://link.springer.com/article/10.1007/s13389-016-0141-6)
+34. Randolph, M., & Diehl, W. (2020). Power side-channel attack analysis: A review of 20 years of study for the layman. Cryptography, 4(2), 15. [Link](https://mdpi-res.com/d_attachment/cryptography/cryptography-04-00015/article_deploy/cryptography-04-00015-v3.pdf?version=1592905738)
+35. 
 
 ## Code
