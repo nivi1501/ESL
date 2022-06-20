@@ -64,6 +64,8 @@ This webpage presents a curated list of papers in the field of side channel atta
 57. Chabanne, H., Danger, J. L., Guiga, L., & Kühne, U. (2021). Side channel attacks for architecture extraction of neural networks. CAAI Transactions on Intelligence Technology, 6(1), 3-16.[Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12026)
 58. Mi, Z., Chen, H., Zhang, Y., Peng, S., Wang, X., & Reiter, M. K. (2018). Cpu elasticity to mitigate cross-vm runtime monitoring. IEEE Transactions on Dependable and Secure Computing, 17(5), 1094-1108.[Link](https://ieeexplore.ieee.org/abstract/document/8383990)
 59. Wang, H., Sayadi, H., Sasan, A., Rafatirad, S., & Homayoun, H. (2020, November). Hybrid-shield: Accurate and efficient cross-layer countermeasure for run-time detection and mitigation of cache-based side-channel attacks. In Proceedings of the 39th International Conference on Computer-Aided Design (pp. 1-9). [Link](https://dl.acm.org/doi/abs/10.1145/3400302.3418783)
+60. Wang, H., Sayadi, H., Mohsenin, T., Zhao, L., Sasan, A., Rafatirad, S., & Homayoun, H. (2020, March). Mitigating cache-based side-channel attacks through randomization: A comprehensive system and architecture level analysis. In 2020 Design, Automation & Test in Europe Conference & Exhibition (DATE) (pp. 1414-1419). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/9116340)
+61. Liu, F., Wu, H., Mai, K., & Lee, R. B. (2016). Newcache: Secure cache architecture thwarting cache side-channel attacks. IEEE Micro, 36(5), 8-16. [Link](https://ieeexplore.ieee.org/abstract/document/7723806)
 
 ### Survey Papers
 62. Ge, Q., Yarom, Y., Cock, D., & Heiser, G. (2018). A survey of microarchitectural timing attacks and countermeasures on contemporary hardware. Journal of Cryptographic Engineering, 8(1), 1-27. [Link](https://link.springer.com/article/10.1007/s13389-016-0141-6)
@@ -94,9 +96,10 @@ This webpage presents a curated list of papers in the field of side channel atta
 84. Zhang, D., Zhou, C., Li, S., Yu, D., & He, K. (2020). Evaluation of Information Leakage of Cryptographic Chip Based on Variance. IEEE Letters on Electromagnetic Compatibility Practice and Applications, 2(4), 174-177.[Link](https://ieeexplore.ieee.org/abstract/document/9294036)
 85. Vila, P., Köpf, B., & Morales, J. F. (2019, May). Theory and practice of finding eviction sets. In 2019 IEEE Symposium on Security and Privacy (SP) (pp. 39-54). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8835261)
 86. Song, W., & Liu, P. (2019). Dynamically Finding Minimal Eviction Sets Can Be Quicker Than You Think for {Side-Channel} Attacks against the {LLC}. In 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2019) (pp. 427-442).[Link](https://www.usenix.org/conference/raid2019/presentation/song)
-87. Yarom, Y. (2016). Mastik: A micro-architectural side-channel toolkit. [Link](https://cs.adelaide.edu.au/~yval/Mastik/Mastik.pdf)
-88. Alam, M., & Mukhopadhyay, D. (2019, June). How secure are deep learning algorithms from side-channel based reverse engineering?. In Proceedings of the 56th Annual Design Automation Conference 2019 (pp. 1-2). [Link](https://dl.acm.org/doi/abs/10.1145/3316781.3322465)
-89. Hong, S., Davinroy, M., Kaya, Y., Locke, S. N., Rackow, I., Kulda, K., ... & Dumitraş, T. (2018). Security analysis of deep neural networks operating in the presence of cache side-channel attacks. arXiv preprint arXiv:1810.03487. [Link](https://arxiv.org/abs/1810.03487)
+87. He, Z., & Lee, R. B. (2017, October). How secure is your cache against side-channel attacks?. In Proceedings of the 50th Annual IEEE/ACM International Symposium on Microarchitecture (pp. 341-353).[Link](https://dl.acm.org/doi/pdf/10.1145/3123939.3124546)
+88. Yarom, Y. (2016). Mastik: A micro-architectural side-channel toolkit. [Link](https://cs.adelaide.edu.au/~yval/Mastik/Mastik.pdf)
+89. Alam, M., & Mukhopadhyay, D. (2019, June). How secure are deep learning algorithms from side-channel based reverse engineering?. In Proceedings of the 56th Annual Design Automation Conference 2019 (pp. 1-2). [Link](https://dl.acm.org/doi/abs/10.1145/3316781.3322465)
+90. Hong, S., Davinroy, M., Kaya, Y., Locke, S. N., Rackow, I., Kulda, K., ... & Dumitraş, T. (2018). Security analysis of deep neural networks operating in the presence of cache side-channel attacks. arXiv preprint arXiv:1810.03487. [Link](https://arxiv.org/abs/1810.03487)
 
 ## Useful Code Repositories
 2. [Flush+Reload](https://github.com/IAIK/cache_template_attacks) 
