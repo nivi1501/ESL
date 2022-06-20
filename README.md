@@ -59,6 +59,9 @@ This webpage presents a curated list of papers in the field of side channel atta
 52. Percival, C. (2005). Cache missing for fun and profit. [Link](https://css.csail.mit.edu/6.858/2014/readings/ht-cache.pdf)
 53. Enomoto, S., & Kuzuno, H. (2021, September). FlushBlocker: Lightweight mitigating mechanism for CPU cache flush instruction based attacks. In 2021 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW) (pp. 74-79). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/9583697)
 54. Qureshi, M. K. (2018, October). CEASER: Mitigating conflict-based cache attacks via encrypted-address and remapping. In 2018 51st Annual IEEE/ACM International Symposium on Microarchitecture (MICRO) (pp. 775-787). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8574585)
+55. Dhavlle, A., Mehta, R., Rafatirad, S., Homayoun, H., & Dinakarrao, S. M. P. (2020, March). Entropy-shield: Side-channel entropy maximization for timing-based side-channel attacks. In 2020 21st International Symposium on Quality Electronic Design (ISQED) (pp. 161-166). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/9137008)
+56. Crane, S., Homescu, A., Brunthaler, S., Larsen, P., & Franz, M. (2015, February). Thwarting cache side-channel attacks through dynamic software diversity. In NDSS (pp. 8-11).[Link](https://www.ics.uci.edu/~ahomescu/ndss15sidechannels.pdf)
+57. Chabanne, H., Danger, J. L., Guiga, L., & Kühne, U. (2021). Side channel attacks for architecture extraction of neural networks. CAAI Transactions on Intelligence Technology, 6(1), 3-16.[Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12026)
 
 
 
