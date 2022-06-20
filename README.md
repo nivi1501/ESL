@@ -65,6 +65,7 @@ This webpage presents a curated list of papers in the field of side channel atta
 58. Mi, Z., Chen, H., Zhang, Y., Peng, S., Wang, X., & Reiter, M. K. (2018). Cpu elasticity to mitigate cross-vm runtime monitoring. IEEE Transactions on Dependable and Secure Computing, 17(5), 1094-1108.[Link](https://ieeexplore.ieee.org/abstract/document/8383990)
 59. Wang, H., Sayadi, H., Sasan, A., Rafatirad, S., & Homayoun, H. (2020, November). Hybrid-shield: Accurate and efficient cross-layer countermeasure for run-time detection and mitigation of cache-based side-channel attacks. In Proceedings of the 39th International Conference on Computer-Aided Design (pp. 1-9). [Link](https://dl.acm.org/doi/abs/10.1145/3400302.3418783)
 60. Song, W., & Liu, P. (2019). Dynamically Finding Minimal Eviction Sets Can Be Quicker Than You Think for {Side-Channel} Attacks against the {LLC}. In 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2019) (pp. 427-442).[Link](https://www.usenix.org/conference/raid2019/presentation/song)
+61. Hong, S., Davinroy, M., Kaya, Y., Locke, S. N., Rackow, I., Kulda, K., ... & Dumitraş, T. (2018). Security analysis of deep neural networks operating in the presence of cache side-channel attacks. arXiv preprint arXiv:1810.03487. [Link](https://arxiv.org/abs/1810.03487)
 
 
 
@@ -100,7 +101,7 @@ This webpage presents a curated list of papers in the field of side channel atta
 67. Vila, P., Köpf, B., & Morales, J. F. (2019, May). Theory and practice of finding eviction sets. In 2019 IEEE Symposium on Security and Privacy (SP) (pp. 39-54). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8835261)
 70. Yarom, Y. (2016). Mastik: A micro-architectural side-channel toolkit. [Link](https://cs.adelaide.edu.au/~yval/Mastik/Mastik.pdf)
 84. Alam, M., & Mukhopadhyay, D. (2019, June). How secure are deep learning algorithms from side-channel based reverse engineering?. In Proceedings of the 56th Annual Design Automation Conference 2019 (pp. 1-2). [Link](https://dl.acm.org/doi/abs/10.1145/3316781.3322465)
-85. Hong, S., Davinroy, M., Kaya, Y., Locke, S. N., Rackow, I., Kulda, K., ... & Dumitraş, T. (2018). Security analysis of deep neural networks operating in the presence of cache side-channel attacks. arXiv preprint arXiv:1810.03487. [Link](https://arxiv.org/abs/1810.03487)
+
 
 ## Useful Code Repositories
 2. [Flush+Reload](https://github.com/IAIK/cache_template_attacks) 
