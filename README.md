@@ -68,9 +68,8 @@ This webpage presents a curated list of papers in the field of side channel atta
 57. Hettwer, B., Gehrer, S., & Güneysu, T. (2020). Applications of machine learning techniques in side-channel attacks: a survey. Journal of Cryptographic Engineering, 10(2), 135-162. [Link](https://link.springer.com/article/10.1007/s13389-019-00212-8)
 
 
-### Analysis
-58. Alam, M., & Mukhopadhyay, D. (2019, June). How secure are deep learning algorithms from side-channel based reverse engineering?. In Proceedings of the 56th Annual Design Automation Conference 2019 (pp. 1-2). [Link](https://dl.acm.org/doi/abs/10.1145/3316781.3322465)
-59. de Chérisey, E., Guilley, S., Rioul, O., & Piantanida, P. (2019). Best information is most successful. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2019/491)
+### Theoritical Analysis
+58. de Chérisey, E., Guilley, S., Rioul, O., & Piantanida, P. (2019). Best information is most successful. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2019/491)
 60. Song, W., & Liu, P. (2019). Vila, P., Köpf, B., & Morales, J. F. (2019, May). Theory and practice of finding eviction sets. In 2019 IEEE Symposium on Security and Privacy (SP) (pp. 39-54). IEEE. Finding Minimal Eviction Sets Can Be Quicker Than You Think for {Side-Channel} Attacks against the {LLC}. In 22nd International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2019) (pp. 427-442). [Link](https://www.usenix.org/conference/raid2019/presentation/song)
 61. Percival, C. (2005). Cache missing for fun and profit. [Link](https://css.csail.mit.edu/6.858/2014/readings/ht-cache.pdf)
 62. Enomoto, S., & Kuzuno, H. (2021, September). FlushBlocker: Lightweight mitigating mechanism for CPU cache flush instruction based attacks. In 2021 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW) (pp. 74-79). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/9583697)
@@ -93,7 +92,7 @@ This webpage presents a curated list of papers in the field of side channel atta
 80. Ou, C., Zhou, X., Lam, S. K., Zhou, C., & Ning, F. (2020). Information Entropy-Based Leakage Profiling. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 40(6), 1052-1062. [Link](https://ieeexplore.ieee.org/abstract/document/9253724)
 81. Richter, B., Knichel, D., & Moradi, A. (2019, November). A Comparison of $\chi^ 2$-Test and Mutual Information as Distinguisher for Side-Channel Analysis. In International Conference on Smart Card Research and Advanced Applications (pp. 237-251). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-030-42068-0_14)
 82. Duc, A., Dziembowski, S., & Faust, S. (2014, May). Unifying leakage models: from probing attacks to noisy leakage. In Annual International Conference on the Theory and Applications of Cryptographic Techniques (pp. 423-440). Springer, Berlin, Heidelberg.[Link](https://eprint.iacr.org/2014/079.pdf)
-83. 
+83. Alam, M., & Mukhopadhyay, D. (2019, June). How secure are deep learning algorithms from side-channel based reverse engineering?. In Proceedings of the 56th Annual Design Automation Conference 2019 (pp. 1-2). [Link](https://dl.acm.org/doi/abs/10.1145/3316781.3322465)
 
 ## Useful Code Repositories
 1. [Flush+Flush](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
