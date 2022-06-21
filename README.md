@@ -13,9 +13,10 @@ This webpage presents a curated list of papers in the field of side channel atta
 10. Saxena, A., & Panda, B. (2020). DABANGG: time for fearless flush based cache attacks. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2020/637)
 11. Mukhtar, M. A., Mushtaq, M., Bhatti, M. K., Lapotre, V., & Gogniat, G. (2020). Flush+ prefetch: A countermeasure against access-driven cache-based side-channel attacks. Journal of Systems Architecture, 104, 101698. [Link](https://www.sciencedirect.com/science/article/pii/S1383762119305053)
 12. Jayasinghe, D., Fernando, J., Herath, R., & Ragel, R. (2010, December). Remote cache timing attack on advanced encryption standard and countermeasures. In 2010 Fifth International Conference on Information and Automation for Sustainability (pp. 177-182). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/5715656)
-13. Yan, M., Fletcher, C. W., & Torrellas, J. (2020). Cache telepathy: Leveraging shared resource attacks to learn {DNN} architectures. In 29th USENIX Security Symposium (USENIX Security 20) (pp. 2003-2020). [Link](https://www.usenix.org/conference/usenixsecurity20/presentation/yan)
-14. Liu, Y., & Srivastava, A. (2020, November). Ganred: Gan-based reverse engineering of dnns via cache side-channel. In Proceedings of the 2020 ACM SIGSAC Conference on Cloud Computing Security Workshop (pp. 41-52).[Link](https://dl.acm.org/doi/abs/10.1145/3411495.3421356)
-15. Hua, W., Zhang, Z., & Suh, G. E. (2022). Reverse Engineering CNN Models using Side-Channel Attacks. IEEE Design & Test. [Link](https://ieeexplore.ieee.org/abstract/document/9709841)
+13. Spreitzer, R., & Plos, T. (2013, March). Cache-access pattern attack on disaligned aes t-tables. In International Workshop on Constructive Side-Channel Analysis and Secure Design (pp. 200-214). Springer, Berlin, Heidelberg. [Link](https://www.researchgate.net/publication/261251068_Cache-Access_Pattern_Attack_on_Disaligned_AES_T-Tables) 
+14. Yan, M., Fletcher, C. W., & Torrellas, J. (2020). Cache telepathy: Leveraging shared resource attacks to learn {DNN} architectures. In 29th USENIX Security Symposium (USENIX Security 20) (pp. 2003-2020). [Link](https://www.usenix.org/conference/usenixsecurity20/presentation/yan)
+15. Liu, Y., & Srivastava, A. (2020, November). Ganred: Gan-based reverse engineering of dnns via cache side-channel. In Proceedings of the 2020 ACM SIGSAC Conference on Cloud Computing Security Workshop (pp. 41-52).[Link](https://dl.acm.org/doi/abs/10.1145/3411495.3421356)
+16. Hua, W., Zhang, Z., & Suh, G. E. (2022). Reverse Engineering CNN Models using Side-Channel Attacks. IEEE Design & Test. [Link](https://ieeexplore.ieee.org/abstract/document/9709841)
 
 
 ### Countermeasures and Counterattacks
