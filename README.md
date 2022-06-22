@@ -78,10 +78,11 @@ This webpage presents a curated list of papers in the field of side channel atta
 68. Mushtaq, M., Akram, A., Bhatti, M. K., Ali, U., Lapotre, V., & Gogniat, G. (2019, June). Sherlock Holmes of Cache Side-Channel Attacks in Intel's x86 Architecture. In 2019 IEEE Conference on Communications and Network Security (CNS) (pp. 1-9). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8802805)
 69. Hettwer, B., Gehrer, S., & Güneysu, T. (2020). Applications of machine learning techniques in side-channel attacks: a survey. Journal of Cryptographic Engineering, 10(2), 135-162. [Link](https://link.springer.com/article/10.1007/s13389-019-00212-8)
 70. Su, C., & Zeng, Q. (2021). Survey of CPU cache-based side-channel attacks: systematic analysis, security models, and countermeasures. Security and Communication Networks, 2021. [Link](https://www.hindawi.com/journals/scn/2021/5559552/)
+71. Shen, C., Chen, C., & Zhang, J. (2021, January). Micro-architectural cache side-channel attacks and countermeasures. In 2021 26th Asia and South Pacific Design Automation Conference (ASP-DAC) (pp. 441-448). IEEE.[Link](https://ieeexplore.ieee.org/abstract/document/9371596?casa_token=EMaGCLNhGI0AAAAA:BzBM8iKQgBQKovJZe9TSPvaCTBAnPfq7DLlbQWFxUkA4neaoWJZmHxLMGCxEV-T7p-0j5fUPlg)
 
 
 ### Theoritical Analysis 
-71. de Chérisey, E., Guilley, S., Rioul, O., & Piantanida, P. (2019). Best information is most successful. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2019/491)
+72. de Chérisey, E., Guilley, S., Rioul, O., & Piantanida, P. (2019). Best information is most successful. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2019/491)
 72. De Cherisey, E., Guilley, S., Rioul, O., & Piantanida, P. (2019, July). An information-theoretic model for side-channel attacks in embedded hardware. In 2019 IEEE International Symposium on Information Theory (ISIT) (pp. 310-315). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8849763)
 73. Cheng, W., Liu, Y., Guilley, S., & Rioul, O. (2021). Attacking masked cryptographic implementations: Information-theoretic bounds. arXiv preprint arXiv:2105.07436. [Link](https://arxiv.org/abs/2105.07436)
 74. Ito, A., Ueno, R., & Homma, N. (2022). On the Success Rate of Side-Channel Attacks on Masked Implementations: Information-Theoretical Bounds and Their Practical Usage. Cryptology ePrint Archive. [Link](https://eprint.iacr.org/2022/576.pdf)
