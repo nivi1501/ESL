@@ -117,8 +117,8 @@ This webpage presents a curated list of papers in the field of side channel atta
 
 
 ## Useful Code Repositories
-2. [Flush+Reload](https://github.com/IAIK/cache_template_attacks) 
-4. [CSCA](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
-7. https://gist.github.com/ErikAugust/724d4a969fb2c6ae1bbd7b2a9e3d4bb6 
-9. [Dabangg](https://github.com/DABANGG-Attack/Source-Code)
-10. [Reload+Refresh](https://github.com/greenlsi/reload_refresh)
+1. [Flush+Reload](https://github.com/IAIK/cache_template_attacks) 
+2. [Cache based side channel attacks](https://github.com/ECLab-ITU/Cache-Side-Channel-Attacks)
+3. https://gist.github.com/ErikAugust/724d4a969fb2c6ae1bbd7b2a9e3d4bb6 
+4. [Dabangg](https://github.com/DABANGG-Attack/Source-Code)
+5. [Reload+Refresh](https://github.com/greenlsi/reload_refresh)
