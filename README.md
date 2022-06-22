@@ -1,5 +1,8 @@
+# Appendix
+Please refer to the attached PDF for detailed descriptions of the derivations used in the paper. 
+
 # Cache Based Side Channel Attacks
-This webpage presents a curated list of papers in the field of side channel attacks, countermeasures and counterattacks. 
+This section presents a curated list of papers in the field of side channel attacks, countermeasures and counterattacks. 
 ## References
 ### Side Channel Attacks
 1. Gruss, D., Spreitzer, R., & Mangard, S. (2015). Cache Template Attacks: Automating Attacks on Inclusive {Last-Level} Caches. In 24th USENIX Security Symposium (USENIX Security 15) (pp. 897-912). [Link](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/gruss)
