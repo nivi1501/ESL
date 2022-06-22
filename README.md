@@ -1,5 +1,5 @@
 # Appendix
-Please refer to the attached PDF for detailed descriptions of the derivations used in the paper. 
+Please refer to the PDF document 'ESL_Response.pdf' for detailed descriptions of the derivations used in the paper. 
 
 # Cache Based Side Channel Attacks
 This section presents a curated list of papers in the field of side channel attacks, countermeasures and counterattacks. 
